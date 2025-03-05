@@ -5,7 +5,7 @@
 <h3 align="center">Software Engineer graduated with a degree in Computer Science from Misr Higher Institute for Commerce and Computers, Interested to work as a Front-end Developer and currently learning front-end technologies using React framework.</h3>
 
 <h2 align="left">About me</h2>
-<hr>
+
 - 🌱 I’m currently learning Front-end Technologies **javascript,tailwind**
 
 - 📝 I regularly write articles on [omar khaled](https://www.linkedin.com/in/omar-khaled-097552226/)
