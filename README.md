@@ -8,7 +8,7 @@
 
 - 🌱 I’m currently learning Front-end Technologies **javascript,tailwind**
 
-- 📝 I regularly write articles on [omar khaled](https://www.linkedin.com/in/omar-khaled-097552226/)
+- 📝 I regularly write articles on [Omar khaled](https://www.linkedin.com/in/omar-khaled-097552226/)
 
 - 📫 How to reach me **omar.khaled.wk@gmail.com**
 
