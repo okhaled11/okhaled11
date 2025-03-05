@@ -1,7 +1,10 @@
-<h1 align="center">Hi 👋, I'm Omar</h1>
+<h1 align="center">Hi <picture>
+  <source srcset="https://fonts.gstatic.com/s/e/notoemoji/latest/1f44b_1f3fb/512.webp" type="image/webp">
+  <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f44b_1f3fb/512.gif" alt="👋" width="32" height="32">
+</picture>, I'm Omar</h1>
 <h3 align="center">Software Engineer graduated with a degree in Computer Science from Misr Higher Institute for Commerce and Computers, Interested to work as a Front-end Developer and currently learning front-end technologies using React framework.</h3>
 
-<h3 align="left">About me</h3>
+<h2 align="left">About me</h2>
 <hr>
 - 🌱 I’m currently learning Front-end Technologies **javascript,tailwind**
 
