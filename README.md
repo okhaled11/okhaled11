@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Omar</h1>
 <h3 align="center">Software Engineer graduated with a degree in Computer Science from Misr Higher Institute for Commerce and Computers, Interested to work as a Front-end Developer and currently learning front-end technologies using React framework.</h3>
 
-<h3 align="center">About me</h3>
+<h3 align="left">About me</h3>
 <hr>
 - 🌱 I’m currently learning Front-end Technologies **javascript,tailwind**
 
