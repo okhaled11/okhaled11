@@ -4,7 +4,7 @@
 </picture>, I'm Omar</h1>
 <h3 align="center">Software Engineer graduated with a degree in Computer Science from Misr Higher Institute for Commerce and Computers, Interested to work as a Front-end Developer and currently learning front-end technologies using React framework <picture>
   <source srcset="https://fonts.gstatic.com/s/e/notoemoji/latest/1f3af/512.webp" type="image/webp">
-  <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f3af/512.gif" alt="🎯" width="40" height="40">
+  <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f3af/512.gif" alt="🎯" width="32" height="32">
 </picture>.</h3>
 
 <h2 align="left">About me</h2>
