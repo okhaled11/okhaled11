@@ -20,6 +20,8 @@
   <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/270f_fe0f/512.gif" alt="✏" width="32" height="32">
 </picture>
 
+- 👨‍💻 All of my projects are available at [My Portfolio](https://okhaled11.github.io/Portfolio/)
+
 - 📝 I regularly write articles on [Omar khaled](https://www.linkedin.com/in/omar-khaled-097552226/)
 
 - 📫 How to reach me **omar.khaled.wk@gmail.com**
