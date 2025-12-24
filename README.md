@@ -55,7 +55,7 @@
 ## 📂 Featured Projects
 
 🚧 **Check my portfolio:**  
-👉 [My Portfolio Website](https://okhaled11.github.io/Portfolio/)
+👉 [My Portfolio Website]([https://okhaled11.github.io/Portfolio/](https://omar-khaled.vercel.app/))
 
 > More projects coming soon 🔥
 
@@ -63,10 +63,10 @@
 
 ## 📊 GitHub Analytics
 
-<p align="center">
+<!-- <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=okhaled11&show_icons=true&theme=tokyonight" width="48%"/>
-  <!-- <img src="https://github-readme-streak-stats.herokuapp.com/?user=okhaled11&theme=tokyonight" width="48%"/> -->
-</p>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=okhaled11&theme=tokyonight" width="48%"/>
+</p> -->
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=okhaled11&layout=compact&theme=tokyonight" width="48%"/>
