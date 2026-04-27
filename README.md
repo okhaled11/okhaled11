@@ -1,84 +1,106 @@
 <h1 align="center">
-  Hi, I'm Omar 👋
+  Hey, I'm Omar Khaled 
+  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35">
 </h1>
 
 <h3 align="center">
-  Front-End Developer | React Enthusiast | Software Engineer
+  Front-End Developer ⚛️ | Crafting Modern, Scalable & High-Performance UIs
 </h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?lines=Front-End+Developer;React+Developer;JavaScript+Lover;Always+Learning+🚀&center=true&width=500&height=45">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=3000&pause=800&color=00F7FF&center=true&vCenter=true&width=600&lines=React+Developer;UI%2FUX+Focused;Performance+Driven;Clean+Code+Advocate;Always+Learning+🚀" />
+</p>
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00F7FF,100:6C63FF&height=120&section=header"/>
 </p>
 
 ---
 
-## 🧑‍💻 About Me
+## 🧠 About Me
 
-- 🎓 **Software Engineer**, Computer Science Graduate  
-- 💻 Specialized in **Front-End Development**
-- ⚛️ Currently learning **React & Modern Front-End Stack**
-- 🚀 Passionate about building **clean UI & great UX**
-- 📍 Egypt
+```js
+const omar = {
+  role: "Front-End Developer",
+  focus: ["React", "Performance", "Clean UI"],
+  passion: "Building scalable & beautiful web apps",
+  location: "Egypt 🇪🇬"
+};
+```
 
 ---
 
-## 🌐 Connect with Me
+## 🚀 What Makes Me Different
+
+* ⚛️ I don’t just use React — I **understand how it works**
+* 🎨 I care deeply about **UI details & user experience**
+* ⚡ I optimize for **performance, not just functionality**
+* 🧩 I write **clean, maintainable, production-ready code**
+
+---
+
+## 🌐 Connect With Me
 
 <p align="center">
-<a href="https://linkedin.com/in/omar-khaled-097552226" target="_blank">
-  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
-<a href="https://twitter.com/omarkahaled_10_" target="_blank">
-  <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"/>
+<a href="https://linkedin.com/in/omar-khaled-097552226">
+  <img src="https://img.shields.io/badge/LinkedIn-Omar%20Khaled-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 <a href="mailto:omar.khaled.wk@gmail.com">
-  <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Gmail-Contact%20Me-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+<a href="https://omar-khaled.vercel.app">
+  <img src="https://img.shields.io/badge/Portfolio-View%20Work-000000?style=for-the-badge&logo=vercel&logoColor=white"/>
 </a>
 </p>
 
 ---
 
-## 🛠️ Tech Stack
+## 🛠️ Tech Arsenal
 
-### 🚀 Front-End
 <p align="center">
-<img src="https://skillicons.dev/icons?i=html,css,js,react,tailwind,sass" />
-</p>
-
-### ⚙️ Tools & Others
-<p align="center">
-<img src="https://skillicons.dev/icons?i=git,github,python,cpp,gulp" />
+<img src="https://skillicons.dev/icons?i=html,css,js,react,tailwind,sass,git,github" />
 </p>
 
 ---
 
 ## 📂 Featured Projects
 
-🚧 **Check my portfolio:**  
-👉 [My Portfolio Website]([https://okhaled11.github.io/Portfolio/](https://omar-khaled.vercel.app/))
+🚀 **Portfolio Website**
+👉 https://omar-khaled.vercel.app
 
-> More projects coming soon 🔥
+💡 *More production-level projects coming soon...*
 
 ---
 
-## 📊 GitHub Analytics
-
-<!-- <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=okhaled11&show_icons=true&theme=tokyonight" width="48%"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=okhaled11&theme=tokyonight" width="48%"/>
-</p> -->
+## 📊 GitHub Insights
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=okhaled11&layout=compact&theme=tokyonight" width="48%"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=okhaled11&show_icons=true&theme=tokyonight&hide_border=true" width="48%"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=okhaled11&theme=tokyonight&hide_border=true" width="48%"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=okhaled11&theme=tokyo-night&hide_border=true"/>
 </p>
 
 ---
 
+## 🧩 Currently Leveling Up
 
-## ✨ Quote I Live By
-
-> *"Code is like humor. When you have to explain it, it’s bad."*
+* Advanced React Patterns
+* System Design for Front-End
+* Performance Optimization
 
 ---
 
-⭐ **If you like my work, consider giving my repositories a star!**
+## ✨ Philosophy
+
+> "Users don’t see your code… but they feel it."
+
+---
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:6C63FF,100:00F7FF&height=120&section=footer"/>
+</p>
+
+⭐ If you like my work, drop a star — it means a lot!
