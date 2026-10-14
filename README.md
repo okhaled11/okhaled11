@@ -16,7 +16,7 @@
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Omar%20Khaled-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/omar-khaled-097552226)
 [![Gmail](https://img.shields.io/badge/Gmail-omar.khaled.wk%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:omar.khaled.wk@gmail.com)
-[![Portfolio](https://img.shields.io/badge/Portfolio-omar--khaled.vercel.app-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://omar-khaled.vercel.app)
+[![Portfolio](https://img.shields.io/badge/Portfolio-omar--khaled.vercel.app-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://omar-khaled-nu.vercel.app/)
 
 </div>
 
@@ -81,7 +81,7 @@ const omar = {
 ### 🌐 Portfolio Website
 > A modern, high-performance personal portfolio built with React & Tailwind CSS
 
-[![Portfolio](https://img.shields.io/badge/Live-Visit%20Portfolio-00F7FF?style=for-the-badge&logo=vercel&logoColor=black)](https://omar-khaled.vercel.app)
+[![Portfolio](https://img.shields.io/badge/Live-Visit%20Portfolio-00F7FF?style=for-the-badge&logo=vercel&logoColor=black)](https://omar-khaled-nu.vercel.app/)
 
 💡 *More production-level projects coming soon...*
 
